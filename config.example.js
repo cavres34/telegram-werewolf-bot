@@ -1,10 +1,10 @@
-var config = {
-  "token": "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11",
+1var config = {
+  "token": "6411353779:AAEqRS3Ue2fqO7xyHHzsiCQg-mmqV69NXKU",
   "update_type": "long-polling", // or "webhook"
   "webhook": "https://www.example.com/<token>",
   //"proxy": "http://127.0.0.1:8118",
   //"bot_name": "example_bot", // check bot name,
-  "admin_id": "35197423",
+  "admin_id": "6381139369",
   "db": {
     host: '127.0.0.1',
     port: 27017,
